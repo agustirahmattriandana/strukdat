@@ -1,0 +1,2 @@
+# strukdat
+Catatan
